@@ -1,7 +1,7 @@
 # todolist-using-reactjs
 
  * ======================================================
- * 📝 React Todo App - All In One File (With README)
+ * 📝 React Todo App - 
  * ======================================================
  *
  * 🚀 Features:
